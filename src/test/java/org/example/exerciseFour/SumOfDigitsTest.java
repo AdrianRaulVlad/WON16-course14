@@ -1,4 +1,4 @@
-package org.example.exerciseThree;
+package org.example.exerciseFour;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

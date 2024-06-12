@@ -1,4 +1,4 @@
-package org.example.exerciseThree;
+package org.example.exerciseFour;
 
 public class SumOfDigits {
     // Recursive method to calculate the sum of digits of a number
